@@ -1,6 +1,8 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
+This project was a PID to control the wheel of a self driving car on a test track.  The input was "cross track error" and that was fed to the code I wrote for this project to create an approriate response to keep the car from crashing.  This was a great way to see how PID parameters can impact a real life system.  
+
 ---
 
 ## Dependencies
